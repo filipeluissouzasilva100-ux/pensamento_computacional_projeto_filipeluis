@@ -48,7 +48,7 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 ### 🌆 Tarde (Segunda e Terça)
 * | Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima |
 * | Gustavo Jesus | Igor Batista | João Teles | Julio Ilidio | Lana Reis | Larissa Silva |
-* | Leandro Xavier | Lorenzo Carmo | Luis Gentil | Luiz Silva | Miguel Alves | Milena Oliveira |
+* | Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro |
 * | Nicolly Gonçalves | Paulo Nascimento | Richard Pimenta | Thalya Alcantara | Thierry Duarte | Yuri Santana |
 
 ---
@@ -68,7 +68,16 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * | Beatriz O., Clara, João, Maria F.
 * | Claudomiro S., Richard P.
 * | Julio I., Miguel A.
-
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--G.Carvalho-->
+<!--Rebecca-->
+* **🍔 Hambúrgueria:** Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro 
+<!--Filipe-->
+<!--L. Sales-->
 <!-- * **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel. espaço do Felipe mendes e do Igor feitas -->
 <!-- * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana. espaço do diogo -->
 <!-- * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry. espaço da Bea -->

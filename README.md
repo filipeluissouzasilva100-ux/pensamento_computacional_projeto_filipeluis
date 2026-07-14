@@ -56,7 +56,7 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
-* | MIguel Dias | 
+* | MIguel Dias | Sophia Neris
 * | Carlos Pereira | 
 * | Isabelly |
 * | Luane |
